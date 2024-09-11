@@ -1,5 +1,5 @@
 # About Me: 
-🔭 **Current Focus:** Sharpening my skills in Python, JavaScript, and React for full-stack development.<br><br>
+🔭 **Current Focus:** Sharpening my skills in Python, JavaScript, and React.<br><br>
 👯 **Open to Collaboration:** I’m eager to collaborate on Full-stack and open-source projects to grow as a developer.<br><br>
 🤝 **Seeking Support:** Actively looking to improve my Data Structures and Algorithms (DSA) problem-solving abilities.<br><br>
 🌱 **Learning Path:** Continuously learning and exploring new tools and frameworks, with a strong focus on Python, JavaScript, and React.<br><br>
