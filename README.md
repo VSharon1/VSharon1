@@ -1,0 +1,31 @@
+# About Me: 
+🔭 **Current Focus:** Sharpening my skills in Python, JavaScript, and React for full-stack development.<br><br>
+👯 **Open to Collaboration:** I’m eager to collaborate on Full-stack and open-source projects to grow as a developer.<br><br>
+🤝 **Seeking Support:** Actively looking to improve my Data Structures and Algorithms (DSA) problem-solving abilities.<br><br>
+🌱 **Learning Path:** Continuously learning and exploring new tools and frameworks, with a strong focus on Python, JavaScript, and React.<br><br>
+💬 **Let’s Connect:** Feel free to reach out for discussions on tech, projects, or anything you’d like to know about me!<br><br>
+⚡ **Fun Fact:** When I'm not coding, you can find me staying active at the gym.<br><br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-velikkakath/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_VSharon1_)
+<br><br>
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vsharon1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vsharon1&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsharon1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=vsharon1&icon=7&color=1)](https://visitcount.itsvg.in)
