@@ -4,11 +4,11 @@
 🤝 **Seeking Support:** Actively looking to improve my Data Structures and Algorithms (DSA) problem-solving abilities.<br><br>
 🌱 **Learning Path:** Continuously learning and exploring new tools and frameworks, with a strong focus on Python, JavaScript, and React.<br><br>
 💬 **Let’s Connect:** Feel free to reach out for discussions on tech, projects, or anything you’d like to know about me!<br><br>
-⚡ **Fun Fact:** When I'm not coding, you can find me staying active at the gym.<br><br>
+⚡ **Fun Fact:** When I'm not coding, you can find me staying active at the gym.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-velikkakath/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_VSharon1_)
-<br><br>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_VSharon1_)
+<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br><br>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vsharon1&icon=7&color=1)](https://visitcount.itsvg.in)
