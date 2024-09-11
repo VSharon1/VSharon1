@@ -1,10 +1,16 @@
 # About Me: 
-**Current Focus:** Sharpening my skills in Python, JavaScript, and React.<br><br>
-**Open to Collaboration:** I’m eager to collaborate on Full-stack and open-source projects to grow as a developer.<br><br>
-**Seeking Support:** Actively looking to improve my Data Structures and Algorithms (DSA) problem-solving abilities.<br><br>
-**Learning Path:** Continuously learning and exploring new tools and frameworks, with a strong focus on Python, JavaScript, and React.<br><br>
-**Let’s Connect:** Feel free to reach out for discussions on tech, projects, or anything you’d like to know about me!<br><br>
-**Fun Fact:** When I'm not coding, you can find me staying active at the gym.<br>
+**Current Focus:**<br>
+&emsp;Sharpening my skills in Python, JavaScript, and React.<br><br>
+**Open to Collaboration:**<br>
+&emsp;I’m eager to collaborate on Full-stack and open-source projects to grow as a developer.<br><br>
+**Seeking Support:**<br>
+&emsp;Actively looking to improve my Data Structures and Algorithms (DSA) problem-solving abilities.<br><br>
+**Learning Path:**<br>
+&emsp;Continuously learning and exploring new tools and frameworks, with a strong focus on Python, JavaScript, and React.<br><br>
+**Let’s Connect:**<br>
+&emsp;Feel free to reach out for discussions on tech, projects, or anything you’d like to know about me!<br><br>
+**Fun Fact:**<br>
+&emsp;When I'm not coding, you can find me staying active at the gym.<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
