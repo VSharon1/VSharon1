@@ -24,4 +24,4 @@
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vsharon1&theme=github-dark-blue&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=823&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vsharon1&theme=github-dark-blue&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=825&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
