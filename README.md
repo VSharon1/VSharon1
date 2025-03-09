@@ -22,3 +22,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vsharon1&theme=github-dark-blue&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
