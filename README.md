@@ -39,7 +39,3 @@ I am a Full Stack Developer with a **Master's degree in Business Informatics**, 
 *   **Home Lab & Dev Tools:** Enthusiastic about self-hosting (Docker/Linux), optimizing my **Neovim** configuration, and exploring new CLI tools.
 *   **Hardware & Electronics:** Passionate about **Split Keyboards** (UHK60 user) and building **IoT solutions** with Raspberry Pi; planning to start **3D Printing custom enclosures** after relocation.
 *   **Sports & Travel:** Regular fitness training (Gym) and cultural travel.
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VSharon1&theme=github-dark-blue&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=840&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
