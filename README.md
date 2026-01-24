@@ -19,7 +19,7 @@ I am a Full Stack Developer with a **Master's degree in Business Informatics**, 
 > A custom **MyWU planning tool** enabling **nearly 600 students** to generate conflict-free timetables.
 > *   **Role:** Engineered the solution from scratch, ensuring seamless data integration with the central platform.
 
-**🌍 International Course Registration**
+**🌍 International Course Registration System**
 > A new **MyWU registration system** for **over 300 exchange students** per semester.
 > *   **Role:** Designed the data structure and full-stack logic to prioritize course preferences for allocation algorithms.
 
