@@ -17,7 +17,7 @@ I am a Full Stack Developer with a **Master's degree in Business Informatics**, 
 
 **🌍 International Course Preference System**
 > A new, complex full-stack **MyWU system** for **over 450 exchange students**.
-> *   **Impact:** Streamlined the processing of **over 5,000 course preferences** to facilitate **~2,000 automated allocations**, transforming a manual workflow into a structured, data-driven pipeline.
+> *   **Impact:** Streamlined the processing of **over 5,000 course preferences** to facilitate **around 2,000 automated allocations**, transforming a manual workflow into a structured, data-driven pipeline.
 
 **📅 Course Schedule Planner**
 > A custom interactive **MyWU planning tool** enabling **over 650 students** to generate conflict-free timetables.
