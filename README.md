@@ -12,12 +12,12 @@ I am a Full Stack Developer with a **Master's degree in Business Informatics**, 
 *I am currently architecting and deploying integrated web applications serving thousands of students.*
 
 **🎓 Specialization Registration System**
-> Architected a high-concurrency **MyWU application** serving **over 2,700 students** with **nearly 6,900 registrations**.
+> Architected a high-concurrency **MyWU application** serving **over 2,500 students** with **around 6,500 registrations**.
 > *   **Impact:** Engineered the architecture to handle **~300 requests/second** at peak load (a **35% performance increase** over the legacy system), ensuring zero latency during high-stakes enrollment windows.
 
 **🌍 International Course Preference System**
-> A new, complex full-stack **MyWU system** for **nearly 500 exchange students**.
-> *   **Impact:** Streamlined the processing of **over 5,300 course preferences** to facilitate **~2,100 automated allocations**, transforming a manual workflow into a structured, data-driven pipeline.
+> A new, complex full-stack **MyWU system** for **over 450 exchange students**.
+> *   **Impact:** Streamlined the processing of **over 5,000 course preferences** to facilitate **~2,000 automated allocations**, transforming a manual workflow into a structured, data-driven pipeline.
 
 **📅 Course Schedule Planner**
 > A custom interactive **MyWU planning tool** enabling **over 650 students** to generate conflict-free timetables.
